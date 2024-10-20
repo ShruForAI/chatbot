@@ -1,0 +1,2 @@
+Please download the movie_lines.txt from this link as the file size size is large, I am not able to upload it directly here.
+https://www.kaggle.com/datasets/rajathmc/cornell-moviedialog-corpus
